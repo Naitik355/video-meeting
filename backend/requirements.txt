@@ -1,0 +1,3 @@
+vision-agents
+python-dotenv
+gunicorn 
